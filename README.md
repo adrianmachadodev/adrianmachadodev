@@ -1,7 +1,7 @@
 ### Bienvenido, soy Adrián Machado 👋
 FrontEnd Developer | Angular Developer
 
-[Linkedin] 
+[Linkedin](https://www.linkedin.com/in/adriangmachado/)
 
 <!--
 **adrianmachadodev/adrianmachadodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
