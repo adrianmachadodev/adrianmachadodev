@@ -1,9 +1,13 @@
-### Bienvenido, soy Adrián Machado 👋
-FrontEnd Developer | Angular Developer
+
 
 <p align="center">
-  <img src="https://github.com/adrianmachadodev/adrianmachadodev/blob/main/logo-adrian.png" height="40"/>
+  <img align="center" src="https://github.com/adrianmachadodev/adrianmachadodev/blob/main/logo-adrian.png" width="200"/>
 </p>
+
+<h1 align="center">Bienvenido, soy Adrián Machado <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  </h1>
+
+<br>
+
 
 
 <!--
