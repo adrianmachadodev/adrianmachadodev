@@ -29,10 +29,10 @@
 
 <h4> Contacto</h4>
 
-<a href="https://www.linkedin.com/in/adriangmachado/" target="_blank">
+<a href="https://www.linkedin.com/in/adriangmachado/">
 <img align="left" src="http://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="https://wonderful-shirley-7c440d.netlify.app" target="_blank">
+<a href="https://wonderful-shirley-7c440d.netlify.app">
 <img align="left" src="http://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white"></a>
 
 
