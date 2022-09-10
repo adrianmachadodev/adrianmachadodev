@@ -16,7 +16,21 @@
 
 ### Tecnologias
 <img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
+<img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
+<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
+<img align="left" alt="Angular" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/angular.svg" />
+<img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/typescript.svg" />
+<img align="left" alt="GIT" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
+<img align="left" alt="Bootstap" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
+<img align="left" alt="SASS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/sass.svg" />
 
+<br>
+<br>
+
+<h4> Contacto</h4>
+
+<a href="https://www.linkedin.com/in/adriangmachado/">
+<img align="left" src="http://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
