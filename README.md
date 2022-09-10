@@ -8,6 +8,16 @@
 
 <br>
 
+<p align="center" width="150px"> El camino que seguí para formarme en los distintos conocimientos, fue a raíz de un curso de diseño web, en donde despertó la pasión por la tecnología. Actualmente, me encuentro cursando la carrera en programación.</p>
+
+<p align="center" width="150px"> He realizado distintos proyectos, utilizando HTML, CSS, JavaScript, Angular.</p>
+
+<hr>
+
+### Tecnologias
+<img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
+
+
 
 
 <!--
