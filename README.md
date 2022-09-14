@@ -35,7 +35,8 @@
 <a href="https://wonderful-shirley-7c440d.netlify.app">
 <img align="left" src="http://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white"></a>
 
-
+<a href="mailto:machadoadriangabriel@gmail.com">
+<img align="left" src="http://img.shields.io/badge/-machadoadriangabriel@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <!--
 **adrianmachadodev/adrianmachadodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
