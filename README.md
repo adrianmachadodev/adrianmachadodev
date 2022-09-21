@@ -12,7 +12,7 @@
 
 <p align="center" width="150px"> He realizado distintos proyectos, utilizando HTML, CSS, JavaScript, Angular.</p>
 
-# 💻 Tech Stacks
+# 💻 Tech Stack:
 <img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
