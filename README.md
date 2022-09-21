@@ -12,9 +12,7 @@
 
 <p align="center" width="150px"> He realizado distintos proyectos, utilizando HTML, CSS, JavaScript, Angular.</p>
 
-<hr>
-
-### Tecnologias
+# 💻 Tech Stacks
 <img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
@@ -26,6 +24,16 @@
 
 <br>
 <br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adrianmachadodev&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adrianmachadodev&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmachadodev&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adrianmachadodev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <h4> Contacto</h4>
 
