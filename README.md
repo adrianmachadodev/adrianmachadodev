@@ -4,13 +4,13 @@
   <img align="center" src="https://github.com/adrianmachadodev/adrianmachadodev/blob/main/logo-adrian-dark.png" width="200"/>
 </p>
 
-<h1 align="center">Bienvenido, soy Adrián Machado <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  </h1>
+<h1 align="center">Welcome, I'm Adrián Machado <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  </h1>
 
 <br>
 
-<p align="center" width="150px"> El camino que seguí para formarme en los distintos conocimientos, fue a raíz de un curso de diseño web, en donde despertó la pasión por la tecnología. Actualmente, me encuentro cursando la carrera en programación.</p>
+<p align="center" width="150px"> The path I followed to train in the different knowledge was as a result of a web design course, where it awakened the passion for technology.Currently, I am studying the career in programming.</p>
 
-<p align="center" width="150px"> He realizado distintos proyectos, utilizando HTML, CSS, JavaScript, Angular.</p>
+<p align="center" width="150px">I have done different projects, using HTML, CSS, JavaScript, Angular.</p>
 
 # 💻 Tech Stack:
 <img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
@@ -35,7 +35,7 @@
 
 
 
-<h4> Contacto</h4>
+# ℹ Contact
 
 <a href="https://www.linkedin.com/in/adriangmachado/">
 <img align="left" src="http://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
