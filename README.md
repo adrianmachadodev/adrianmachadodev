@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="center" width="150px"> The path I followed to train in the different knowledge was as a result of a web design course, where it awakened the passion for technology.Currently, I am studying the career in programming.</p>
+<p align="center" width="150px"> The path I followed to train in the different knowledge was as a result of a web design course, where it awakened the passion for technology. Currently, I am studying the career in programming.</p>
 
 <p align="center" width="150px">I have done different projects, using HTML, CSS, JavaScript, Angular.</p>
 
