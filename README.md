@@ -12,6 +12,8 @@
 
 <p align="center" width="150px">I have done different projects, using HTML, CSS, JavaScript, Angular.</p>
 
+<p>I had the opportunity to work in the IT sector and got my first work experience</p>
+
 # 💻 Tech Stack:
 <img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
