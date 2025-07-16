@@ -17,9 +17,9 @@
 
 # 💻 Tech Stack:
 <img align="left" width="50" src="logos/html5-original.png" />
-<img align="left" alt="CSS" width="50px" src="logos/css3-original.png" />
-<img align="left" alt="JavaScript" width="50px" src="logos/js-original.png" />
-<img align="left" alt="Angular" width="50px" src="logos/angular-original.png" />
+<img align="left" alt="CSS" width="50px" src="logos/css-original.png" />
+<img align="left" alt="JavaScript" width="50px" src="logos/js-plain.png" />
+<img align="left" alt="Angular" width="50px" src="logos/angular-plain.png" />
 <img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/typescript.svg" />
 <img align="left" alt="GIT" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
 <img align="left" alt="Bootstap" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
