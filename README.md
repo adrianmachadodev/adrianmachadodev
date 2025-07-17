@@ -27,9 +27,9 @@
 <br>
 <br>
 
- 💻 New knowledge in process:
-<img align="left" width="150px"  src="logos/astro-plain.png" />
-<img align="left" width="150px" alt="CSS" src="logos/tailwind-plain.png" />
+# 💻 New knowledge in process:
+<img align="left" width="70px"  src="logos/astro-plain.png" />
+<img align="left" width="70px" alt="CSS" src="logos/tailwind-plain.png" />
 
 <br>
 <br>
