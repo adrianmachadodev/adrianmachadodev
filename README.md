@@ -28,13 +28,16 @@
 
 
 # 💻 New knowledge in process:
+
 <img align="left" width="70px"  src="logos/astro-plain.png" />
 <img align="left" width="70px" alt="CSS" src="logos/tailwind-plain.png" />
 
+<br>
 <div style="clear: both;"></div>
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=adrianmachadodev&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adrianmachadodev&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmachadodev&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
