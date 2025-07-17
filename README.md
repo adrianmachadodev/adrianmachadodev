@@ -33,8 +33,6 @@
 
 <div style="clear: both;"></div>
 
-<br>
-<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adrianmachadodev&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
