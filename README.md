@@ -29,7 +29,7 @@
 
 # 💻 New knowledge in process:
 <img align="left" width="70px"  src="logos/astro-plain.png" />
-<img align="left" width="70px" style="transform: scale(2, 1);" alt="CSS" src="logos/tailwind-plain.png" />
+<img align="left" width="70px" alt="CSS" src="logos/tailwind-plain.png" />
 
 <br>
 <br>
