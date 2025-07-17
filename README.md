@@ -28,8 +28,8 @@
 <br>
 
 # 💻 New knowledge in process:
-<img align="left" width="100px" height="100px" src="logos/astro-plain.png" />
-<img align="left" width="100px" height="100px" alt="CSS" width="50px" src="logos/tailwind-plain.png" />
+<img align="left" width="100px"  src="logos/astro-plain.png" />
+<img align="left" width="100px" alt="CSS" width="50px" src="logos/tailwind-plain.png" />
 
 <br>
 <br>
