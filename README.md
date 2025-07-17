@@ -24,6 +24,10 @@
 <img align="left" alt="GIT" width="50px" src="logos/bs-plain.png" />
 <img align="left" alt="Bootstap" width="50px" src="logos/sass-plain.png" />
 
+## 💻 New knowledge in process:
+<img align="left" width="50" src="logos/astro-plain.png" />
+<img align="left" alt="CSS" width="50px" src="logos/tailwind-plain.png" />
+
 <br>
 <br>
 
