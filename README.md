@@ -20,9 +20,9 @@
 <img align="left" alt="CSS" width="50px" src="logos/css-original.png" />
 <img align="left" alt="JavaScript" width="50px" src="logos/js-plain.png" />
 <img align="left" alt="Angular" width="50px" src="logos/angular-plain.png" />
-<img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/typescript.svg" />
-<img align="left" alt="GIT" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
-<img align="left" alt="Bootstap" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
+<img align="left" alt="TypeScript" width="50px" src="logos/ts-plain.png" />
+<img align="left" alt="GIT" width="50px" src="logos/bs-pain.png" />
+<img align="left" alt="Bootstap" width="50px" src="logos/sass-pain.png" />
 <img align="left" alt="SASS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/sass.svg" />
 
 <br>
